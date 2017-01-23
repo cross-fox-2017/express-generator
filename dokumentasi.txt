@@ -1,0 +1,6 @@
+1. buka repo di node.js 
+	npm install -g express-generator 
+2. ketik (ejs = embedded javascript)
+	express . view=ejs
+3. ketik
+	npm install
